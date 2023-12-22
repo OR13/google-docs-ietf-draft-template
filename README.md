@@ -13,6 +13,27 @@ Not intended for working group adopted documents, this is to help start the proc
 
 Tracking changes in a version control system is recommended, there will need to be IPR commitments from everyone who supplied text to the google document, they SHOULD be listed in the acknowledgements section.
 
+## Instructions for users
+
+### DO:
+
+- Add paragraphs of text under headings
+- Add nested sections with h1, h2, h3
+
+### DO NOT:
+
+- Allow contributions without tracking who is making them.
+- Worry about references / citation formats, they will need to be redone before you submit to data tracker.
+
+- Change the headings for:
+
+  - Abstract
+  - Introduction
+  - Terminology
+  - Security Considerations
+  - Acknowledgements
+
+
 ## Design Goals and None Goals
 
 Good tools do one thing very well... 
