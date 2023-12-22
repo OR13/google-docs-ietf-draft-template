@@ -4,12 +4,21 @@
   "description": "",
   "main": "index.js",
   "scripts": {
-    "shove": "git add -A; git commit -m ':rainbow::rocket:'; git push origin main"
+    "shove": "git add -A; git commit -m ':rainbow::rocket:'; git push origin main",
+    "test": "jest"
   },
   "author": "Orie Steele",
   "license": "ISC",
   "dependencies": {
     "@google-cloud/local-auth": "^2.1.0",
-    "googleapis": "^105.0.0"
+    "googleapis": "^105.0.0",
+    "moment": "^2.29.4",
+    "slugify": "^1.6.6",
+    "xml-beautify": "^1.2.3",
+    "xmldom": "^0.6.0",
+    "yaml": "^2.3.4"
+  },
+  "devDependencies": {
+    "jest": "^29.7.0"
   }
 }

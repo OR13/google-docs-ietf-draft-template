@@ -1,0 +1,1109 @@
+{
+  "MOCKED": "Friday, December 22, 2023 1:00 PM",
+  "config": {
+    "url": "https://docs.googleapis.com/v1/documents/1OYGNt3nlzM0-P949PkOt-DnIUWnjHtGzKtjEXKfpBFQ",
+    "method": "GET",
+    "userAgentDirectives": [
+      {
+        "product": "google-api-nodejs-client",
+        "version": "6.0.4",
+        "comment": "gzip"
+      }
+    ],
+    "headers": {
+      "x-goog-api-client": "gdcl/6.0.4 gl-node/18.8.0",
+      "Accept-Encoding": "gzip",
+      "User-Agent": "google-api-nodejs-client/6.0.4 (gzip)",
+      "Authorization": "Bearer ya29.a0AfB...0n3VUQ0171",
+      "Accept": "application/json"
+    },
+    "params": {},
+    "retry": true,
+    "responseType": "json"
+  },
+  "data": {
+    "title": "draft-steele-google-docs-draft-template",
+    "body": {
+      "content": [
+        {
+          "endIndex": 1,
+          "sectionBreak": {
+            "sectionStyle": {
+              "columnSeparatorStyle": "NONE",
+              "contentDirection": "LEFT_TO_RIGHT",
+              "sectionType": "CONTINUOUS"
+            }
+          }
+        },
+        {
+          "startIndex": 1,
+          "endIndex": 29,
+          "paragraph": {
+            "elements": [
+              {
+                "startIndex": 1,
+                "endIndex": 29,
+                "textRun": {
+                  "content": "Google Docs for IETF Drafts\n",
+                  "textStyle": {
+                    "weightedFontFamily": {
+                      "fontFamily": "Courier New",
+                      "weight": 400
+                    }
+                  }
+                }
+              }
+            ],
+            "paragraphStyle": {
+              "headingId": "h.5o5bb89jo8a6",
+              "namedStyleType": "TITLE",
+              "alignment": "CENTER",
+              "direction": "LEFT_TO_RIGHT"
+            }
+          }
+        },
+        {
+          "startIndex": 29,
+          "endIndex": 38,
+          "paragraph": {
+            "elements": [
+              {
+                "startIndex": 29,
+                "endIndex": 38,
+                "textRun": {
+                  "content": "Abstract\n",
+                  "textStyle": {
+                    "weightedFontFamily": {
+                      "fontFamily": "Courier New",
+                      "weight": 400
+                    }
+                  }
+                }
+              }
+            ],
+            "paragraphStyle": {
+              "headingId": "h.iqsk0dle3c7s",
+              "namedStyleType": "HEADING_1",
+              "direction": "LEFT_TO_RIGHT"
+            }
+          }
+        },
+        {
+          "startIndex": 38,
+          "endIndex": 58,
+          "paragraph": {
+            "elements": [
+              {
+                "startIndex": 38,
+                "endIndex": 58,
+                "textRun": {
+                  "content": "This will be short.\n",
+                  "textStyle": {
+                    "weightedFontFamily": {
+                      "fontFamily": "Courier New",
+                      "weight": 400
+                    }
+                  }
+                }
+              }
+            ],
+            "paragraphStyle": {
+              "namedStyleType": "NORMAL_TEXT",
+              "direction": "LEFT_TO_RIGHT"
+            }
+          }
+        },
+        {
+          "startIndex": 58,
+          "endIndex": 71,
+          "paragraph": {
+            "elements": [
+              {
+                "startIndex": 58,
+                "endIndex": 71,
+                "textRun": {
+                  "content": "Introduction\n",
+                  "textStyle": {
+                    "weightedFontFamily": {
+                      "fontFamily": "Courier New",
+                      "weight": 400
+                    }
+                  }
+                }
+              }
+            ],
+            "paragraphStyle": {
+              "headingId": "h.unzxcxq69ovw",
+              "namedStyleType": "HEADING_1",
+              "direction": "LEFT_TO_RIGHT"
+            }
+          }
+        },
+        {
+          "startIndex": 71,
+          "endIndex": 103,
+          "paragraph": {
+            "elements": [
+              {
+                "startIndex": 71,
+                "endIndex": 103,
+                "textRun": {
+                  "content": "This should probably be longer.\n",
+                  "textStyle": {
+                    "weightedFontFamily": {
+                      "fontFamily": "Courier New",
+                      "weight": 400
+                    }
+                  }
+                }
+              }
+            ],
+            "paragraphStyle": {
+              "namedStyleType": "NORMAL_TEXT",
+              "direction": "LEFT_TO_RIGHT"
+            }
+          }
+        },
+        {
+          "startIndex": 103,
+          "endIndex": 115,
+          "paragraph": {
+            "elements": [
+              {
+                "startIndex": 103,
+                "endIndex": 115,
+                "textRun": {
+                  "content": "Terminology\n",
+                  "textStyle": {
+                    "weightedFontFamily": {
+                      "fontFamily": "Courier New",
+                      "weight": 400
+                    }
+                  }
+                }
+              }
+            ],
+            "paragraphStyle": {
+              "headingId": "h.zi56geeby9qt",
+              "namedStyleType": "HEADING_1",
+              "direction": "LEFT_TO_RIGHT"
+            }
+          }
+        },
+        {
+          "startIndex": 115,
+          "endIndex": 210,
+          "paragraph": {
+            "elements": [
+              {
+                "startIndex": 115,
+                "endIndex": 210,
+                "textRun": {
+                  "content": "term (noun): any word or group of words considered as a member of a construction or utterance.\n",
+                  "textStyle": {
+                    "weightedFontFamily": {
+                      "fontFamily": "Courier New",
+                      "weight": 400
+                    }
+                  }
+                }
+              }
+            ],
+            "paragraphStyle": {
+              "namedStyleType": "NORMAL_TEXT",
+              "direction": "LEFT_TO_RIGHT",
+              "indentFirstLine": {
+                "unit": "PT"
+              },
+              "indentStart": {
+                "unit": "PT"
+              }
+            }
+          }
+        },
+        {
+          "startIndex": 210,
+          "endIndex": 220,
+          "paragraph": {
+            "elements": [
+              {
+                "startIndex": 210,
+                "endIndex": 220,
+                "textRun": {
+                  "content": "Section 1\n",
+                  "textStyle": {
+                    "weightedFontFamily": {
+                      "fontFamily": "Courier New",
+                      "weight": 400
+                    }
+                  }
+                }
+              }
+            ],
+            "paragraphStyle": {
+              "headingId": "h.qksaz9dwgwhm",
+              "namedStyleType": "HEADING_1",
+              "direction": "LEFT_TO_RIGHT"
+            }
+          }
+        },
+        {
+          "startIndex": 220,
+          "endIndex": 277,
+          "paragraph": {
+            "elements": [
+              {
+                "startIndex": 220,
+                "endIndex": 277,
+                "textRun": {
+                  "content": "Keep adding sections and subsections until you are done.\n",
+                  "textStyle": {
+                    "weightedFontFamily": {
+                      "fontFamily": "Courier New",
+                      "weight": 400
+                    }
+                  }
+                }
+              }
+            ],
+            "paragraphStyle": {
+              "namedStyleType": "NORMAL_TEXT",
+              "direction": "LEFT_TO_RIGHT"
+            }
+          }
+        },
+        {
+          "startIndex": 277,
+          "endIndex": 291,
+          "paragraph": {
+            "elements": [
+              {
+                "startIndex": 277,
+                "endIndex": 291,
+                "textRun": {
+                  "content": "Sub Section 1\n",
+                  "textStyle": {
+                    "weightedFontFamily": {
+                      "fontFamily": "Courier New",
+                      "weight": 400
+                    }
+                  }
+                }
+              }
+            ],
+            "paragraphStyle": {
+              "headingId": "h.e3r69solag9",
+              "namedStyleType": "HEADING_2",
+              "direction": "LEFT_TO_RIGHT"
+            }
+          }
+        },
+        {
+          "startIndex": 291,
+          "endIndex": 348,
+          "paragraph": {
+            "elements": [
+              {
+                "startIndex": 291,
+                "endIndex": 348,
+                "textRun": {
+                  "content": "Keep adding sections and subsections until you are done.\n",
+                  "textStyle": {
+                    "weightedFontFamily": {
+                      "fontFamily": "Courier New",
+                      "weight": 400
+                    }
+                  }
+                }
+              }
+            ],
+            "paragraphStyle": {
+              "namedStyleType": "NORMAL_TEXT",
+              "direction": "LEFT_TO_RIGHT"
+            }
+          }
+        },
+        {
+          "startIndex": 348,
+          "endIndex": 366,
+          "paragraph": {
+            "elements": [
+              {
+                "startIndex": 348,
+                "endIndex": 366,
+                "textRun": {
+                  "content": "Sub Sub Section 1\n",
+                  "textStyle": {
+                    "weightedFontFamily": {
+                      "fontFamily": "Courier New",
+                      "weight": 400
+                    }
+                  }
+                }
+              }
+            ],
+            "paragraphStyle": {
+              "headingId": "h.wminaoppa1aa",
+              "namedStyleType": "HEADING_3",
+              "direction": "LEFT_TO_RIGHT"
+            }
+          }
+        },
+        {
+          "startIndex": 366,
+          "endIndex": 393,
+          "paragraph": {
+            "elements": [
+              {
+                "startIndex": 366,
+                "endIndex": 393,
+                "textRun": {
+                  "content": "Don’t go deeper than this.\n",
+                  "textStyle": {
+                    "weightedFontFamily": {
+                      "fontFamily": "Courier New",
+                      "weight": 400
+                    }
+                  }
+                }
+              }
+            ],
+            "paragraphStyle": {
+              "namedStyleType": "NORMAL_TEXT",
+              "direction": "LEFT_TO_RIGHT"
+            }
+          }
+        },
+        {
+          "startIndex": 393,
+          "endIndex": 417,
+          "paragraph": {
+            "elements": [
+              {
+                "startIndex": 393,
+                "endIndex": 417,
+                "textRun": {
+                  "content": "Security Considerations\n",
+                  "textStyle": {
+                    "weightedFontFamily": {
+                      "fontFamily": "Courier New",
+                      "weight": 400
+                    }
+                  }
+                }
+              }
+            ],
+            "paragraphStyle": {
+              "headingId": "h.6crqxkuupb81",
+              "namedStyleType": "HEADING_1",
+              "direction": "LEFT_TO_RIGHT"
+            }
+          }
+        },
+        {
+          "startIndex": 417,
+          "endIndex": 431,
+          "paragraph": {
+            "elements": [
+              {
+                "startIndex": 417,
+                "endIndex": 431,
+                "textRun": {
+                  "content": "TODO Security\n",
+                  "textStyle": {
+                    "weightedFontFamily": {
+                      "fontFamily": "Courier New",
+                      "weight": 400
+                    }
+                  }
+                }
+              }
+            ],
+            "paragraphStyle": {
+              "namedStyleType": "NORMAL_TEXT",
+              "direction": "LEFT_TO_RIGHT"
+            }
+          }
+        },
+        {
+          "startIndex": 431,
+          "endIndex": 445,
+          "paragraph": {
+            "elements": [
+              {
+                "startIndex": 431,
+                "endIndex": 445,
+                "textRun": {
+                  "content": "Security Sub Section 1\n",
+                  "textStyle": {
+                    "weightedFontFamily": {
+                      "fontFamily": "Courier New",
+                      "weight": 400
+                    }
+                  }
+                }
+              }
+            ],
+            "paragraphStyle": {
+              "headingId": "h.huxnesdkuzh5",
+              "namedStyleType": "HEADING_2",
+              "direction": "LEFT_TO_RIGHT"
+            }
+          }
+        },
+        {
+          "startIndex": 445,
+          "endIndex": 502,
+          "paragraph": {
+            "elements": [
+              {
+                "startIndex": 445,
+                "endIndex": 502,
+                "textRun": {
+                  "content": "Keep adding sections and subsections until you are done.\n",
+                  "textStyle": {
+                    "weightedFontFamily": {
+                      "fontFamily": "Courier New",
+                      "weight": 400
+                    }
+                  }
+                }
+              }
+            ],
+            "paragraphStyle": {
+              "namedStyleType": "NORMAL_TEXT",
+              "direction": "LEFT_TO_RIGHT"
+            }
+          }
+        },
+        {
+          "startIndex": 502,
+          "endIndex": 519,
+          "paragraph": {
+            "elements": [
+              {
+                "startIndex": 502,
+                "endIndex": 519,
+                "textRun": {
+                  "content": "Acknowledgements\n",
+                  "textStyle": {
+                    "weightedFontFamily": {
+                      "fontFamily": "Courier New",
+                      "weight": 400
+                    }
+                  }
+                }
+              }
+            ],
+            "paragraphStyle": {
+              "headingId": "h.yj5lehtj6v1m",
+              "namedStyleType": "HEADING_1",
+              "direction": "LEFT_TO_RIGHT"
+            }
+          }
+        },
+        {
+          "startIndex": 519,
+          "endIndex": 600,
+          "paragraph": {
+            "elements": [
+              {
+                "startIndex": 519,
+                "endIndex": 600,
+                "textRun": {
+                  "content": "We would like to thank … for their valuable contributions to this specification.\n",
+                  "textStyle": {
+                    "weightedFontFamily": {
+                      "fontFamily": "Courier New",
+                      "weight": 400
+                    }
+                  }
+                }
+              }
+            ],
+            "paragraphStyle": {
+              "namedStyleType": "NORMAL_TEXT",
+              "direction": "LEFT_TO_RIGHT"
+            }
+          }
+        }
+      ]
+    },
+    "documentStyle": {
+      "background": {
+        "color": {}
+      },
+      "pageNumberStart": 1,
+      "marginTop": {
+        "magnitude": 72,
+        "unit": "PT"
+      },
+      "marginBottom": {
+        "magnitude": 72,
+        "unit": "PT"
+      },
+      "marginRight": {
+        "magnitude": 72,
+        "unit": "PT"
+      },
+      "marginLeft": {
+        "magnitude": 72,
+        "unit": "PT"
+      },
+      "pageSize": {
+        "height": {
+          "magnitude": 792,
+          "unit": "PT"
+        },
+        "width": {
+          "magnitude": 612,
+          "unit": "PT"
+        }
+      },
+      "marginHeader": {
+        "magnitude": 36,
+        "unit": "PT"
+      },
+      "marginFooter": {
+        "magnitude": 36,
+        "unit": "PT"
+      },
+      "useCustomHeaderFooterMargins": true
+    },
+    "namedStyles": {
+      "styles": [
+        {
+          "namedStyleType": "NORMAL_TEXT",
+          "textStyle": {
+            "bold": false,
+            "italic": false,
+            "underline": false,
+            "strikethrough": false,
+            "smallCaps": false,
+            "backgroundColor": {},
+            "foregroundColor": {
+              "color": {
+                "rgbColor": {}
+              }
+            },
+            "fontSize": {
+              "magnitude": 11,
+              "unit": "PT"
+            },
+            "weightedFontFamily": {
+              "fontFamily": "Arial",
+              "weight": 400
+            },
+            "baselineOffset": "NONE"
+          },
+          "paragraphStyle": {
+            "namedStyleType": "NORMAL_TEXT",
+            "alignment": "START",
+            "lineSpacing": 115,
+            "direction": "LEFT_TO_RIGHT",
+            "spacingMode": "COLLAPSE_LISTS",
+            "spaceAbove": {
+              "unit": "PT"
+            },
+            "spaceBelow": {
+              "unit": "PT"
+            },
+            "borderBetween": {
+              "color": {},
+              "width": {
+                "unit": "PT"
+              },
+              "padding": {
+                "unit": "PT"
+              },
+              "dashStyle": "SOLID"
+            },
+            "borderTop": {
+              "color": {},
+              "width": {
+                "unit": "PT"
+              },
+              "padding": {
+                "unit": "PT"
+              },
+              "dashStyle": "SOLID"
+            },
+            "borderBottom": {
+              "color": {},
+              "width": {
+                "unit": "PT"
+              },
+              "padding": {
+                "unit": "PT"
+              },
+              "dashStyle": "SOLID"
+            },
+            "borderLeft": {
+              "color": {},
+              "width": {
+                "unit": "PT"
+              },
+              "padding": {
+                "unit": "PT"
+              },
+              "dashStyle": "SOLID"
+            },
+            "borderRight": {
+              "color": {},
+              "width": {
+                "unit": "PT"
+              },
+              "padding": {
+                "unit": "PT"
+              },
+              "dashStyle": "SOLID"
+            },
+            "indentFirstLine": {
+              "unit": "PT"
+            },
+            "indentStart": {
+              "unit": "PT"
+            },
+            "indentEnd": {
+              "unit": "PT"
+            },
+            "keepLinesTogether": false,
+            "keepWithNext": false,
+            "avoidWidowAndOrphan": true,
+            "shading": {
+              "backgroundColor": {}
+            },
+            "pageBreakBefore": false
+          }
+        },
+        {
+          "namedStyleType": "HEADING_1",
+          "textStyle": {
+            "fontSize": {
+              "magnitude": 20,
+              "unit": "PT"
+            }
+          },
+          "paragraphStyle": {
+            "namedStyleType": "NORMAL_TEXT",
+            "direction": "LEFT_TO_RIGHT",
+            "spaceAbove": {
+              "magnitude": 20,
+              "unit": "PT"
+            },
+            "spaceBelow": {
+              "magnitude": 6,
+              "unit": "PT"
+            },
+            "keepLinesTogether": true,
+            "keepWithNext": true,
+            "pageBreakBefore": false
+          }
+        },
+        {
+          "namedStyleType": "HEADING_2",
+          "textStyle": {
+            "bold": false,
+            "fontSize": {
+              "magnitude": 16,
+              "unit": "PT"
+            }
+          },
+          "paragraphStyle": {
+            "namedStyleType": "NORMAL_TEXT",
+            "direction": "LEFT_TO_RIGHT",
+            "spaceAbove": {
+              "magnitude": 18,
+              "unit": "PT"
+            },
+            "spaceBelow": {
+              "magnitude": 6,
+              "unit": "PT"
+            },
+            "keepLinesTogether": true,
+            "keepWithNext": true,
+            "pageBreakBefore": false
+          }
+        },
+        {
+          "namedStyleType": "HEADING_3",
+          "textStyle": {
+            "bold": false,
+            "foregroundColor": {
+              "color": {
+                "rgbColor": {
+                  "red": 0.2627451,
+                  "green": 0.2627451,
+                  "blue": 0.2627451
+                }
+              }
+            },
+            "fontSize": {
+              "magnitude": 14,
+              "unit": "PT"
+            }
+          },
+          "paragraphStyle": {
+            "namedStyleType": "NORMAL_TEXT",
+            "direction": "LEFT_TO_RIGHT",
+            "spaceAbove": {
+              "magnitude": 16,
+              "unit": "PT"
+            },
+            "spaceBelow": {
+              "magnitude": 4,
+              "unit": "PT"
+            },
+            "keepLinesTogether": true,
+            "keepWithNext": true,
+            "pageBreakBefore": false
+          }
+        },
+        {
+          "namedStyleType": "HEADING_4",
+          "textStyle": {
+            "foregroundColor": {
+              "color": {
+                "rgbColor": {
+                  "red": 0.4,
+                  "green": 0.4,
+                  "blue": 0.4
+                }
+              }
+            },
+            "fontSize": {
+              "magnitude": 12,
+              "unit": "PT"
+            }
+          },
+          "paragraphStyle": {
+            "namedStyleType": "NORMAL_TEXT",
+            "direction": "LEFT_TO_RIGHT",
+            "spaceAbove": {
+              "magnitude": 14,
+              "unit": "PT"
+            },
+            "spaceBelow": {
+              "magnitude": 4,
+              "unit": "PT"
+            },
+            "keepLinesTogether": true,
+            "keepWithNext": true,
+            "pageBreakBefore": false
+          }
+        },
+        {
+          "namedStyleType": "HEADING_5",
+          "textStyle": {
+            "foregroundColor": {
+              "color": {
+                "rgbColor": {
+                  "red": 0.4,
+                  "green": 0.4,
+                  "blue": 0.4
+                }
+              }
+            },
+            "fontSize": {
+              "magnitude": 11,
+              "unit": "PT"
+            }
+          },
+          "paragraphStyle": {
+            "namedStyleType": "NORMAL_TEXT",
+            "direction": "LEFT_TO_RIGHT",
+            "spaceAbove": {
+              "magnitude": 12,
+              "unit": "PT"
+            },
+            "spaceBelow": {
+              "magnitude": 4,
+              "unit": "PT"
+            },
+            "keepLinesTogether": true,
+            "keepWithNext": true,
+            "pageBreakBefore": false
+          }
+        },
+        {
+          "namedStyleType": "HEADING_6",
+          "textStyle": {
+            "italic": true,
+            "foregroundColor": {
+              "color": {
+                "rgbColor": {
+                  "red": 0.4,
+                  "green": 0.4,
+                  "blue": 0.4
+                }
+              }
+            },
+            "fontSize": {
+              "magnitude": 11,
+              "unit": "PT"
+            }
+          },
+          "paragraphStyle": {
+            "namedStyleType": "NORMAL_TEXT",
+            "direction": "LEFT_TO_RIGHT",
+            "spaceAbove": {
+              "magnitude": 12,
+              "unit": "PT"
+            },
+            "spaceBelow": {
+              "magnitude": 4,
+              "unit": "PT"
+            },
+            "keepLinesTogether": true,
+            "keepWithNext": true,
+            "pageBreakBefore": false
+          }
+        },
+        {
+          "namedStyleType": "TITLE",
+          "textStyle": {
+            "fontSize": {
+              "magnitude": 26,
+              "unit": "PT"
+            }
+          },
+          "paragraphStyle": {
+            "namedStyleType": "NORMAL_TEXT",
+            "direction": "LEFT_TO_RIGHT",
+            "spaceAbove": {
+              "unit": "PT"
+            },
+            "spaceBelow": {
+              "magnitude": 3,
+              "unit": "PT"
+            },
+            "keepLinesTogether": true,
+            "keepWithNext": true,
+            "pageBreakBefore": false
+          }
+        },
+        {
+          "namedStyleType": "SUBTITLE",
+          "textStyle": {
+            "italic": false,
+            "foregroundColor": {
+              "color": {
+                "rgbColor": {
+                  "red": 0.4,
+                  "green": 0.4,
+                  "blue": 0.4
+                }
+              }
+            },
+            "fontSize": {
+              "magnitude": 15,
+              "unit": "PT"
+            },
+            "weightedFontFamily": {
+              "fontFamily": "Arial",
+              "weight": 400
+            }
+          },
+          "paragraphStyle": {
+            "namedStyleType": "NORMAL_TEXT",
+            "direction": "LEFT_TO_RIGHT",
+            "spaceAbove": {
+              "unit": "PT"
+            },
+            "spaceBelow": {
+              "magnitude": 16,
+              "unit": "PT"
+            },
+            "keepLinesTogether": true,
+            "keepWithNext": true,
+            "pageBreakBefore": false
+          }
+        }
+      ]
+    },
+    "lists": {
+      "kix.sbmf1kp6mxvk": {
+        "listProperties": {
+          "nestingLevels": [
+            {
+              "bulletAlignment": "START",
+              "glyphSymbol": "●",
+              "glyphFormat": "%0",
+              "indentFirstLine": {
+                "magnitude": 18,
+                "unit": "PT"
+              },
+              "indentStart": {
+                "magnitude": 36,
+                "unit": "PT"
+              },
+              "textStyle": {
+                "underline": false
+              },
+              "startNumber": 1
+            },
+            {
+              "bulletAlignment": "START",
+              "glyphSymbol": "○",
+              "glyphFormat": "%1",
+              "indentFirstLine": {
+                "magnitude": 54,
+                "unit": "PT"
+              },
+              "indentStart": {
+                "magnitude": 72,
+                "unit": "PT"
+              },
+              "textStyle": {
+                "underline": false
+              },
+              "startNumber": 1
+            },
+            {
+              "bulletAlignment": "START",
+              "glyphSymbol": "■",
+              "glyphFormat": "%2",
+              "indentFirstLine": {
+                "magnitude": 90,
+                "unit": "PT"
+              },
+              "indentStart": {
+                "magnitude": 108,
+                "unit": "PT"
+              },
+              "textStyle": {
+                "underline": false
+              },
+              "startNumber": 1
+            },
+            {
+              "bulletAlignment": "START",
+              "glyphSymbol": "●",
+              "glyphFormat": "%3",
+              "indentFirstLine": {
+                "magnitude": 126,
+                "unit": "PT"
+              },
+              "indentStart": {
+                "magnitude": 144,
+                "unit": "PT"
+              },
+              "textStyle": {
+                "underline": false
+              },
+              "startNumber": 1
+            },
+            {
+              "bulletAlignment": "START",
+              "glyphSymbol": "○",
+              "glyphFormat": "%4",
+              "indentFirstLine": {
+                "magnitude": 162,
+                "unit": "PT"
+              },
+              "indentStart": {
+                "magnitude": 180,
+                "unit": "PT"
+              },
+              "textStyle": {
+                "underline": false
+              },
+              "startNumber": 1
+            },
+            {
+              "bulletAlignment": "START",
+              "glyphSymbol": "■",
+              "glyphFormat": "%5",
+              "indentFirstLine": {
+                "magnitude": 198,
+                "unit": "PT"
+              },
+              "indentStart": {
+                "magnitude": 216,
+                "unit": "PT"
+              },
+              "textStyle": {
+                "underline": false
+              },
+              "startNumber": 1
+            },
+            {
+              "bulletAlignment": "START",
+              "glyphSymbol": "●",
+              "glyphFormat": "%6",
+              "indentFirstLine": {
+                "magnitude": 234,
+                "unit": "PT"
+              },
+              "indentStart": {
+                "magnitude": 252,
+                "unit": "PT"
+              },
+              "textStyle": {
+                "underline": false
+              },
+              "startNumber": 1
+            },
+            {
+              "bulletAlignment": "START",
+              "glyphSymbol": "○",
+              "glyphFormat": "%7",
+              "indentFirstLine": {
+                "magnitude": 270,
+                "unit": "PT"
+              },
+              "indentStart": {
+                "magnitude": 288,
+                "unit": "PT"
+              },
+              "textStyle": {
+                "underline": false
+              },
+              "startNumber": 1
+            },
+            {
+              "bulletAlignment": "START",
+              "glyphSymbol": "■",
+              "glyphFormat": "%8",
+              "indentFirstLine": {
+                "magnitude": 306,
+                "unit": "PT"
+              },
+              "indentStart": {
+                "magnitude": 324,
+                "unit": "PT"
+              },
+              "textStyle": {
+                "underline": false
+              },
+              "startNumber": 1
+            }
+          ]
+        }
+      }
+    },
+    "revisionId": "ALBJ4Lt0YO_Vxc9d1RwSH0mf3HeBkkSGNxA0TyXrOdSqskiihjP3f4_4sZzq8Xbfp4XaeuZN0A1dlnWeYCiF",
+    "suggestionsViewMode": "SUGGESTIONS_INLINE",
+    "documentId": "1OYGNt3nlzM0-P949PkOt-DnIUWnjHtGzKtjEXKfpBFQ"
+  },
+  "headers": {
+    "alt-svc": "h3=\":443\"; ma=2592000,h3-29=\":443\"; ma=2592000",
+    "cache-control": "private",
+    "connection": "close",
+    "content-encoding": "gzip",
+    "content-type": "application/json; charset=UTF-8",
+    "date": "Fri, 22 Dec 2023 19:00:58 GMT",
+    "server": "ESF",
+    "transfer-encoding": "chunked",
+    "vary": "Origin, X-Origin, Referer",
+    "x-content-type-options": "nosniff",
+    "x-frame-options": "SAMEORIGIN",
+    "x-l2-request-path": "l2-managed-5",
+    "x-xss-protection": "0"
+  },
+  "status": 200,
+  "statusText": "OK",
+  "request": {
+    "responseURL": "https://docs.googleapis.com/v1/documents/1OYGNt3nlzM0-P949PkOt-DnIUWnjHtGzKtjEXKfpBFQ"
+  }
+}

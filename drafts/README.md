@@ -1,1 +1,0 @@
-This directory is used to store xml generated from google documents.

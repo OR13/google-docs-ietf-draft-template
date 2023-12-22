@@ -1,0 +1,68 @@
+<?xml version="1.0" encoding=" version='1.0' encoding='UTF-8'?>
+<?xml-stylesheet type='text/xsl' href='http://xml2rfc.tools.ietf.org/authoring/rfc2629.xslt' ?>
+<!DOCTYPE rfc PUBLIC "-//IETF//DTD RFC 2629//EN" "http://xml2rfc.tools.ietf.org/authoring/rfc2629.dtd">
+
+<rfc xmlns:xi="http://www.w3.org/2001/XInclude"
+  category="std" ipr="trust200902"
+  docName="draft-steele-google-docs-draft-template-latest">
+
+  <?rfc toc="yes"?>
+<rfc xmlns:xi="http://www.w3.org/2001/XInclude" category="std" ipr="trust200902" docName="draft-steele-google-docs-draft-template-latest">
+  <front>
+    <title>Google Docs for IETF Drafts</title>
+    <author fullname="Orie Steele">
+      <organization>Transmute</organization>
+      <address>
+        <email>orie@transmute.industries</email>
+      </address>
+    </author>
+    <date day="22" month="December" year="2023" />
+    <area>Security</area>
+    <workgroup>Secure Patterns for Internet CrEdentials</workgroup>
+    <keyword>Inclusive-Tooling</keyword>
+    <keyword>Internet-Draft</keyword>
+    <abstract>
+      <t>This will be short.</t>
+    </abstract>
+  </front>
+  <middle>
+    <section anchor="Introduction" title="Introduction">
+      <t>This should probably be longer.</t>
+    </section>
+    <section anchor="rnc" title="Requirements Notation and Conventions">
+      <t>
+        <xref target="RFC2119" />
+        <xref target="RFC8174" />
+      </t>
+    </section>
+    <section anchor="Terminology" title="Terminology">
+      <t>term (noun): any word or group of words considered as a member of a construction or utterance.</t>
+    </section>
+    <section anchor="Section 1" title="Section 1">
+      <t>Keep adding sections and subsections until you are done.</t>
+      <section anchor="Sub Section 1" title="Sub Section 1">
+        <t>Keep adding sections and subsections until you are done.</t>
+        <section anchor="Sub Sub Section 1" title="Sub Sub Section 1">
+          <t>Don’t go deeper than this.</t>
+        </section>
+      </section>
+    </section>
+    <section anchor="Security Considerations" title="Security Considerations">
+      <t>TODO Security</t>
+      <section anchor="Security Sub Section 1" title="Security Sub Section 1">
+        <t>Keep adding sections and subsections until you are done.</t>
+      </section>
+    </section>
+    <section anchor="IANA" title="IANA Considerations">
+TODO
+    </section>
+  </middle>
+  <back>
+    <references title="Normative References" />
+    <references title="Informative References" />
+    <section title="Document History" anchor="History" />
+    <section title="Acknowledgements" anchor="Acknowledgements" numbered="no">
+      <t>We would like to thank … for their valuable contributions to this specification.</t>
+    </section>
+  </back>
+</rfc>

@@ -1,0 +1,24 @@
+v: 3
+docname: draft-steele-google-docs-draft-template-latest
+abbrev: "godraft"
+category: info
+submissiontype: IETF
+consensus: true
+keyword:
+ - Inclusive-Tooling
+ - Internet-Draft
+area: "Security"
+workgroup: "Secure Patterns for Internet CrEdentials"
+venue:
+  group: "Secure Patterns for Internet CrEdentials"
+  type: "Working Group"
+  mail: "spice@ietf.org"
+  arch: "https://mailarchive.ietf.org/arch/browse/spice/"
+  github: "OR13/draft-steele-google-docs-draft-template"
+  latest: "https://OR13.github.io/draft-steele-google-docs-draft-template/draft-steele-google-docs-draft-template.html"
+
+author:
+ -
+    fullname: "Orie Steele"
+    organization: Transmute
+    email: "orie@transmute.industries"
