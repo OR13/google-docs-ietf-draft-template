@@ -10,11 +10,10 @@ This tool limits you to sections, subsections and paragraphs.
 This strict subset of google docs functionality is meant to make it easy for the document to be converted to a format for progression at IETF.
 
 Not intended for working group adopted documents, this is to help start the process, not to finish it.
-Tracking changes in a version control system is recommended, 
-there will need to be IPR commitments from everyone who supplied text to the google document,
-the SHOULD be listed in the acknowledgements section.
 
-Todo, make `draftMeta` / yaml come from google docs somehow...
+Tracking changes in a version control system is recommended, there will need to be IPR commitments from everyone who supplied text to the google document, they SHOULD be listed in the acknowledgements section.
+
+## Design Goals and None Goals
 
 Good tools do one thing very well... 
 This tool is for people who can write text.
@@ -34,4 +33,6 @@ With much, much more development effort, this tool could be extended to provide 
 
 Eventually a direct integration with the datatracker might be possible, but that would require much more time and resources than I have.
 
-- https://developers.google.com/docs/api/quickstart/nodejs
+## TODOs
+
+- Todo, make ietf yaml meta come from google docs somehow...
