@@ -1,5 +1,5 @@
-const { authorize } = require('./authorize')
+const { make } = require('./make')
 
 module.exports = {
-  authorize
+  make
 }

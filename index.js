@@ -1,23 +1,18 @@
 
-const { google } = require('googleapis');
-
-const { authorize } = require('./src')
-
-
-const DOCUMENT_ID = '1OYGNt3nlzM0-P949PkOt-DnIUWnjHtGzKtjEXKfpBFQ'
+const path = require('path');
+const process = require('process');
+const { make } = require('./src');
 
 
-/**
- * Prints the title of a sample doc:
- * https://docs.google.com/document/d/195j9eDD3ccgjQRttHhJPymLJUCOUjs-jmwTrekvdjFE/edit
- * @param {google.auth.OAuth2} auth The authenticated Google OAuth 2.0 client.
- */
-async function printDocTitle(auth) {
-  const docs = google.docs({version: 'v1', auth});
-  const res = await docs.documents.get({
-    documentId: DOCUMENT_ID,
-  });
-  console.log(`The title of the document is: ${res.data.title}`);
-}
+const TOKEN_PATH = path.join(process.cwd(), 'security', 'token.json');
+const CREDENTIALS_PATH = path.join(process.cwd(), 'security', 'credentials.json');
 
-authorize().then(printDocTitle).catch(console.error);
+const DOCUMENT_ID = '1OYGNt3nlzM0-P949PkOt-DnIUWnjHtGzKtjEXKfpBFQ';
+const DRAFT_PATH = path.join(process.cwd(), 'drafts', '1OYGNt3nlzM0-P949PkOt-DnIUWnjHtGzKtjEXKfpBFQ.xml');
+
+(async () => {
+  await make(DOCUMENT_ID, DRAFT_PATH, {
+    TOKEN_PATH,
+    CREDENTIALS_PATH
+  })
+})()

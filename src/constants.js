@@ -1,8 +1,3 @@
-const path = require('path');
-const process = require('process');
-
-const TOKEN_PATH = path.join(process.cwd(), 'security', 'token.json');
-const CREDENTIALS_PATH = path.join(process.cwd(), 'security', 'credentials.json');
 
 // If modifying these scopes, delete token.json.
 const SCOPES = ['https://www.googleapis.com/auth/documents.readonly'];
@@ -10,5 +5,4 @@ const SCOPES = ['https://www.googleapis.com/auth/documents.readonly'];
 // created automatically when the authorization flow completes for the first
 // time.
 
-
-module.exports = { TOKEN_PATH, CREDENTIALS_PATH, SCOPES };
+module.exports = { SCOPES };
