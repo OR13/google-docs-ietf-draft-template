@@ -1,5 +1,6 @@
+# Google Doc 2 RFC
 
-### [https://docs.google.com/document/d/1OYGNt3nlzM0-P949PkOt-DnIUWnjHtGzKtjEXKfpBFQ](https://docs.google.com/document/d/1OYGNt3nlzM0-P949PkOt-DnIUWnjHtGzKtjEXKfpBFQ/edit)
+### [Google Doc](https://docs.google.com/document/d/1OYGNt3nlzM0-P949PkOt-DnIUWnjHtGzKtjEXKfpBFQ/edit)
 ### [Editors Draft](https://or13.github.io/google-docs-ietf-draft-template/draft-steele-google-docs-draft-template.html)
 
 This is experimental, do not use it.
