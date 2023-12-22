@@ -17,7 +17,7 @@ const docs2xml2rfc = async (response, meta) => {
       useSelfClosingElement: true //true:use self-closing element when empty element.
     });
 
-  return pretty
+  return xml
 }
 
 module.exports = docs2xml2rfc;

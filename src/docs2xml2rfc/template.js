@@ -111,7 +111,6 @@ ${terminology.paragraphs.map((p) => {
     ${recursiveRenderSection(security)}
 
     <section anchor="IANA" title="IANA Considerations">
-TODO
     </section>
 
   </middle>
@@ -119,6 +118,8 @@ TODO
   <back>
 
     <references title="Normative References">
+      <xi:include href="https://bib.ietf.org/public/rfc/bibxml/reference.RFC.2119.xml"/>
+      <xi:include href="https://bib.ietf.org/public/rfc/bibxml/reference.RFC.8174.xml"/>
 
     </references>
 
@@ -139,5 +140,5 @@ ${acknowledgements.paragraphs.map((p) => {
   </back>
 
 </rfc>
-  `
+  `.trim() + '\n'
 }
